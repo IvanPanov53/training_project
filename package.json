@@ -1,0 +1,25 @@
+{
+  "name": "training_project",
+  "version": "1.0.0",
+  "description": "=# training_project\r Учебные проекты",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanPanov53/training_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanPanov53/training_project/issues"
+  },
+  "homepage": "https://github.com/IvanPanov53/training_project#readme"
+}
