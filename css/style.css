@@ -574,7 +574,9 @@ body {
   .types__card {
     margin-bottom: 5rem; }
   .card__text {
-    margin-left: 0; } }
+    margin-left: 0; }
+  .projects__card {
+    margin-bottom: 5rem; } }
 
 @media screen and (max-height: 550px) {
   .hero__scroll-down {
