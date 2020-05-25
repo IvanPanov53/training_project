@@ -837,6 +837,33 @@ body {
   .footer__menu {
     background-color: #131313;
     padding: 4.285rem 0; }
+  .footer__map {
+    max-width: 66.07rem;
+    margin-bottom: 4rem;
+    margin: auto;
+    margin-bottom: 4.64rem; }
+  .footer__address {
+    display: flex;
+    justify-content: center;
+    flex-direction: column; }
+  .footer__text {
+    flex-basis: 100%;
+    max-width: 42.07rem;
+    margin: auto;
+    margin-top: 3.71rem;
+    margin-bottom: 2rem;
+    color: #E3B873;
+    font-family: Yeseva One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.428rem;
+    line-height: 2rem;
+    text-align: center;
+    text-transform: uppercase; }
+  .footer__icon {
+    display: block;
+    margin: auto;
+    margin-bottom: 2rem; }
 
 @media screen and (max-width: 1200px) {
   html {
