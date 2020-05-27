@@ -86,6 +86,10 @@ $(document).ready(function () {
           alert('Форма отправлена, мы свяжемся с вами в течении 10 минут.');
           $(form)[0].reset();
           modal.removeClass('modal--visible');
+        },
+        error: function (response) {
+          console.error('Ошибка запроса ' + response);
+          ym('64404364', 'reachGoal', 'button'); return true;
         }
       });
     }
@@ -128,6 +132,10 @@ $(document).ready(function () {
           alert('Форма отправлена, мы свяжемся с вами в течении 10 минут.');
           $(form)[0].reset();
           modal.removeClass('modal--visible');
+        },
+        error: function (response) {
+          console.error('Ошибка запроса ' + response);
+          ym('64404364', 'reachGoal', 'button'); return true;
         }
       });
     }
@@ -171,6 +179,10 @@ $(document).ready(function () {
           alert('Форма отправлена, мы свяжемся с вами в течении 10 минут.');
           $(form)[0].reset();
           modal.removeClass('modal--visible');
+        },
+        error: function (response) {
+          console.error('Ошибка запроса ' + response);
+          ym('64404364', 'reachGoal', 'button'); return true;
         }
       });
     }
