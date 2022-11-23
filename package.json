@@ -4,7 +4,7 @@
   "description": "=# training_project\r Учебные проекты",
   "main": "index.js",
   "dependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "gulp-htmlmin": "^5.0.1",
     "gulp-tinypng-compress": "^1.2.5"
   },
